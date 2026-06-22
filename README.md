@@ -1,4 +1,4 @@
-# 🚀 Pipeline ETL — Airflow + Docker + PostgreSQL + Power BI
+# Pipeline ETL — Airflow + Docker + PostgreSQL + Power BI
 
 Pipeline ETL completo orquestado con **Apache Airflow 3.2.2**, dockerizado con **Docker Compose**, que extrae datos desde una base de datos PostgreSQL externa, los transforma con **Pandas** y los carga en un **Data Warehouse** con modelo estrella listo para consumir desde **Power BI**.
 
